@@ -6,7 +6,9 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiorr1&show_icons=true&count_private=true&hide_border=true&title_color=4C8EDA&icon_color=1E6FEA&text_color=c9d1d9&bg_color=0000" alt="Caio Rodrigues github stats" /> 
+  <img width="49%" height="195px" src=[![caiorr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiorr1&show_icons=true)](https://github.com/caiorr1/github-readme-stats)
+
+<a href="https://github.com/caiorr1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorr1&langs_count=6" /></a>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorr1&layout=compact&hide_border=true&title_color=4C8EDA&text_color=c9d1d9&bg_color=0000" />
 </div>
 
