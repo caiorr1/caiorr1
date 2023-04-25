@@ -3,6 +3,6 @@
 - 🔭 Work in process...
 - 🌱 I’m currently studying Systems Development Analyst.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiorr1&theme=transparent)](https://github.com/caiorr1/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C8EDA&size=35&center=true&vCenter=true&width=1000&lines=Hey!+My+name+is+Caio;Be+Welcome!)](https://git.io/typing-svg)
 
 
