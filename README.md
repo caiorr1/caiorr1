@@ -7,7 +7,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Henrique0498&show_icons=true&count_private=true&hide_border=true&title_color=4C8EDA&icon_color=1E6FEA&text_color=c9d1d9&bg_color=0000" alt="Caroline Barbosa github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorr1&layout=compact&hide_border=true&title_color=4C8EDA&text_color=c9d1d9&bg_color=0000" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/PET_1=caiorr1?username=caiorr1&layout=compact&hide_border=true&title_color=4C8EDA&text_color=c9d1d9&bg_color=0000" />
 </div>
 [![caiorr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiorr1&show_icons=true)](https://github.com/caiorr1/github-readme-stats)
 
