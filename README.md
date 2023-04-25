@@ -3,6 +3,13 @@
 - 🔭 Work in process...
 - 🌱 I’m currently studying Systems Development Analyst.
 
+<br>
+
+ <div>
+  <a href="https://github.com/caiorr1/caiorr1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiorr1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorr1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Meus contatos
 <div> 
