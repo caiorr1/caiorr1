@@ -7,7 +7,7 @@
 
  <div>
   <a href="https://github.com/caiorr1/caiorr1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiorr1&show_icons=true&hide_border=true&title_color=4C8EDA&icon_color=1E6FEA&text_color=c9d1d9&bg_color=0000&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiorr1&show_icons=true&hide_border=true&title_color=4C8EDA&icon_color=1E6FEA&text_color=c9d1d9&bg_color=0000&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorr1&layout=compact&langs_count=7&&hide_border=true&title_color=4C8EDA&icon_color=1E6FEA&text_color=c9d1d9&bg_color=0000"/>
 </div>
 
